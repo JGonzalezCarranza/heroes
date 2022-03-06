@@ -1,0 +1,10 @@
+marvel.url: https://gateway.marvel.com:443/v1/public/
+publicKey: 8a92530003bd08568f78b5b25af3353b
+privateKey: c8d0a65303d561b30236b0164768aa043b6ae586
+server:
+  port: 9000
+
+springfox:
+  documentation:
+    swagger-ui:
+      base-url: documentation
